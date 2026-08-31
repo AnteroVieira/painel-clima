@@ -5,7 +5,7 @@ Projeto simples que mostra a temperatura de qualquer cidade em tempo real usando
 ## 🔗 Acesse o projeto online
 https://gentle-horse-248ea7.netlify.app/
 
-Obs: Caso o link não abra em uma rede wifi corporativa/escolar ou provedor local ,sugiro abrir em uma rede 4G/5G ou outras redes wifi que não bloqueiam o domínio usado.
+Obs: Caso o link não abra em uma rede wifi corporativa/escolar ou provedor local ,sugiro abrir em uma rede 4G/5G ou outras redes wifi que não bloqueia o domínio usado.
 ## 🖼️ Preview do projeto
 ![Preview do projeto](./preview.png)
 
